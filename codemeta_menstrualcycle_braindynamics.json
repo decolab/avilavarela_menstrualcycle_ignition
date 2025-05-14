@@ -1,0 +1,21 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "MenstrualCycleBrainDynamics",
+  "description": "This software analyzes resting-state fMRI data to examine how menstrual cycle phases modulate brain network dynamics in naturally-cycling women. It quantifies dynamical complexity across early follicular, pre-ovulatory, and mid-luteal phases, revealing increased variability during the pre-ovulatory phase. The tool also models hormone (estradiol, progesterone) and age-related effects on large-scale functional networks, providing insights into the neuroendocrine modulation of brain connectivity across the menstrual cycle.",
+  "codeRepository": "https://github.com/decolab/menstrualcycle-ignition",
+  "dateCreated": "2024-04-01",
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
+  "applicationCategory": "Neuroscience",
+  "keywords": [
+    "menstrual cycle",
+    "dynamical complexity",
+    "resting-state fMRI"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "MATLAB"
+    }
+  ]
+}
