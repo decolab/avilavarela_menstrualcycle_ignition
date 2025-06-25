@@ -24,8 +24,6 @@ This study investigates how menstrual cycle phases (early follicular, pre-ovulat
 ## Repository Structure
 
 - `Ignition_SingleSubject.m`: Core MATLAB script computing node-metastability (ignition) per subject.
-- `data/`: Input folder for preprocessed rs-fMRI time series and structural connectivity matrices (user-provided).
-- `results/`: Outputs including metric values and visualization plots.
 
 > **Note:** For privacy, no empirical data is included—use your own preprocessed datasets.
 
@@ -63,7 +61,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For code usage and question please contact:  
+For code usage and questions please contact:  
 **Anira Escrichs**  
 📧 anira.escrichs@upf.edu
 CNS, Pompeu Fabra University
