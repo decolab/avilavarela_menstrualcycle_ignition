@@ -1,0 +1,52 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "MenstrualCycleBrainDynamics",
+  "description": "This repository provides the MATLAB implementation of a whole-brain node-metastability (ignition) analysis framework developed for the study 'Whole-brain dynamics across the menstrual cycle: the role of hormonal fluctuations and age in healthy women' (Avila-Varela et al., 2024, npj Women's Health).\n\nThe code allows for quantifying changes in dynamical brain complexity across different phases of the menstrual cycle (early follicular, pre-ovulatory, mid-luteal) using resting-state fMRI, hormonal and demographic data. The pipeline computes subject-level node-metastability metrics to assess how hormonal fluctuations (estradiol, progesterone) and age influence functional brain network dynamics across large-scale systems (e.g., DMN, salience, somatomotor).\n\nThis framework supports individualized modelling in the context of women's brain health and neuroendocrinology, and may inform future research in precision medicine.\n\nFor full methodology, input structure, and implementation details, see the README: [README.md](https://github.com/decolab/menstrualcycle_ignition/blob/main/README.md) (https://github.com/decolab/menstrualcycle_ignition/blob/main/README.md)",
+  "codeRepository": "https://github.com/decolab/avilavarela_menstrualcycle_ignition",
+  "downloadUrl": "https://github.com/decolab/avilavarela_menstrualcycle_ignition/releases/tag/v1.0.0",
+  "dateCreated": "2024-04-01",
+  "datePublished": "2025-06-25",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "applicationCategory": "Neuroscience",
+  "keywords": [
+    "menstrual cycle",
+    "dynamical complexity",
+    "resting-state fMRI"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "MATLAB"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "givenName": "Anira",
+    "familyName": "Escrichs",
+    "email": "anira.escrichs@upf.edu",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University Pompeu Fabra"
+    },
+    "identifier": "https://orcid.org/0000-0000-0000-0000"
+  },
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "name": "Whole-brain dynamics across the menstrual cycle: the role of hormonal fluctuations and age in healthy women",
+    "author": [
+      "Avila‑Varela, D. S.",
+      "Hidalgo‑Lopez, E.",
+      "Dagnino, P. C.",
+      "Acero‑Pousa, I.",
+      "del Agua, E.",
+      "Deco, G.",
+      "Pletzer, B.",
+      "Escrichs, A."
+    ],
+    "datePublished": "2024-04-03",
+    "url": "https://doi.org/10.1038/s44294-024-00012-4"
+  }
+}
+
