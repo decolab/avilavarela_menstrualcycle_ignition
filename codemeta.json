@@ -2,12 +2,7 @@
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
   "name": "MenstrualCycleBrainDynamics",
-  "description": "This repository provides a MATLAB implementation of a whole-brain node-metastability (ignition) analysis framework,\n"
-  "developed to examine the effects of menstrual cycle phase, hormone levels, and age on dynamical brain activity in healthy women.\n"
-  "The pipeline processes resting-state fMRI and structural connectivity data to compute subject-specific ignition metrics,\n"
-  "allowing quantification of functional reactivity and complexity across cortical networks such as DMN, salience, and somatomotor systems.\n"
-  "This tool enables individualised whole-brain modelling relevant for neuroendocrinology and women's brain health research.\n"
-  "For methodology, data structure, and usage instructions, see the full README file: [README.md](https://github.com/decolab/menstrualcycle_ignition/blob/main/README.md) (https://github.com/decolab/menstrualcycle_ignition/blob/main/README.md)"
+  "description": "This repository provides a MATLAB implementation of a whole-brain node-metastability (ignition) analysis framework,\ndeveloped to examine the effects of menstrual cycle phase, hormone levels, and age on dynamical brain activity in healthy women.\nThe pipeline processes resting-state fMRI and structural connectivity data to compute subject-specific ignition metrics,\nallowing quantification of functional reactivity and complexity across cortical networks such as DMN, salience, and somatomotor systems.\nThis tool enables individualised whole-brain modelling relevant for neuroendocrinology and women's brain health research.\nFor methodology, data structure, and usage instructions, see the full README file: [README.md](https://github.com/decolab/menstrualcycle_ignition/blob/main/README.md) (https://github.com/decolab/menstrualcycle_ignition/blob/main/README.md)",
   "codeRepository": "https://github.com/decolab/avilavarela_menstrualcycle_ignition",
   "downloadUrl": "https://github.com/decolab/avilavarela_menstrualcycle_ignition/releases/tag/v1.0.0",
   "dateCreated": "2024-04-01",
